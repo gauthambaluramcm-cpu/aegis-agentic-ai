@@ -1,0 +1,37 @@
+﻿AEGIS DATA RETENTION POLICY
+
+1. Purpose
+
+This policy defines principles for retaining and deleting organizational information and personal data.
+
+2. Purpose-Based Retention
+
+Data should be retained only for as long as necessary to fulfill its legitimate business, operational, legal, security, or compliance purpose.
+
+3. Access Logs
+
+Security and access logs should be retained for an appropriate period to support monitoring, investigation, auditing, and incident response.
+
+4. Personal Data
+
+Personal data should not be retained longer than necessary for the purpose for which it was collected or processed, subject to applicable legal or regulatory requirements.
+
+5. Secure Deletion
+
+Data that is no longer required should be securely deleted or otherwise disposed of in accordance with organizational procedures.
+
+6. Investigation Hold
+
+Information relevant to an ongoing security investigation or incident should not be deleted until the investigation has been appropriately completed.
+
+7. Access Control
+
+Retained information must be protected using appropriate access controls and security safeguards.
+
+8. Periodic Review
+
+Retention requirements should be reviewed periodically to determine whether information continues to require retention.
+
+9. Compliance
+
+Retention and deletion practices should comply with applicable organizational policies and data protection requirements.

@@ -1,0 +1,45 @@
+﻿AEGIS INCIDENT RESPONSE POLICY
+
+1. Purpose
+
+This policy establishes requirements for detecting, investigating, containing, and responding to security incidents.
+
+2. Detection
+
+Potential security incidents may be identified through security monitoring, anomaly detection, user reports, system alerts, or other sources.
+
+3. Triage
+
+Detected security alerts should be reviewed and prioritized based on factors such as severity, affected systems, affected data, user activity, and potential impact.
+
+4. Investigation
+
+Security personnel should investigate suspicious activity using relevant access logs, user information, timestamps, source locations, devices, actions, and accessed datasets.
+
+5. Containment
+
+Appropriate containment measures may include restricting access, disabling accounts, terminating sessions, blocking suspicious activity, or isolating affected systems.
+
+6. Verification
+
+After containment, security personnel should verify that suspicious activity has stopped and that affected systems and data are appropriately protected.
+
+7. Escalation
+
+Significant incidents should be escalated to appropriate security, privacy, legal, compliance, or management personnel according to organizational procedures.
+
+8. Evidence Preservation
+
+Relevant logs, alerts, system information, and other evidence should be preserved to support investigation and potential reporting requirements.
+
+9. Recovery
+
+Affected systems or accounts should be restored to a secure operational state following appropriate investigation and remediation.
+
+10. Documentation
+
+Security incidents and response activities should be documented, including the nature of the incident, evidence reviewed, actions taken, and outcome.
+
+11. Lessons Learned
+
+Significant incidents should be reviewed after resolution to identify improvements to security controls, monitoring, policies, and response procedures.

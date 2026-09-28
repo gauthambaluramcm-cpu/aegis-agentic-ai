@@ -1,0 +1,41 @@
+﻿AEGIS ACCEPTABLE USE POLICY
+
+1. Purpose
+
+This policy defines acceptable use of organizational systems, applications, datasets, and information resources.
+
+2. Authorized Use
+
+Organizational systems and data must be used only for legitimate business, operational, research, or other explicitly authorized purposes.
+
+3. Unauthorized Access
+
+Users must not attempt to access systems, applications, datasets, or information for which they do not have authorization.
+
+4. Excessive Data Access
+
+Users should not access, download, export, or process data beyond what is reasonably required for their assigned responsibilities.
+
+5. Credential Sharing
+
+Users must not share account credentials or allow another person to use their account.
+
+6. Security Controls
+
+Users must not intentionally bypass, disable, or interfere with security controls, authentication mechanisms, monitoring systems, or access restrictions.
+
+7. Data Disclosure
+
+Organizational data must not be disclosed, transferred, or shared with unauthorized individuals or external parties.
+
+8. Suspicious Activity
+
+Users should promptly report suspected unauthorized access, credential compromise, data leakage, or other security incidents.
+
+9. Monitoring
+
+System activity may be monitored for security, compliance, operational, and incident investigation purposes.
+
+10. Compliance
+
+Users are expected to comply with applicable organizational policies, security requirements, and data protection obligations.

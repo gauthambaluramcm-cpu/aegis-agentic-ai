@@ -1,0 +1,41 @@
+﻿AEGIS DATA PRIVACY POLICY
+
+1. Purpose
+
+This policy establishes principles for protecting personal data and ensuring that personal data is handled responsibly.
+
+2. Purpose Limitation
+
+Personal data should be collected and processed only for specified, clear, and legitimate purposes.
+
+3. Data Minimization
+
+Only personal data that is necessary for the intended purpose should be collected, accessed, or processed.
+
+4. Authorized Personnel
+
+Access to personal data must be limited to personnel who require the information for legitimate and authorized responsibilities.
+
+5. Data Protection
+
+Appropriate technical and organizational safeguards should be used to protect personal data from unauthorized access, disclosure, alteration, loss, or misuse.
+
+6. Monitoring
+
+Access to personal data may be monitored to identify unauthorized, excessive, or suspicious activity.
+
+7. Suspicious Activity
+
+Unusual access patterns, excessive data access, repeated failed access attempts, unfamiliar devices, and unfamiliar locations should be reviewed when they involve personal data.
+
+8. Incident Reporting
+
+Suspected personal data breaches or unauthorized access must be reported through the organization's incident response process.
+
+9. Privacy by Design
+
+Privacy and security considerations should be incorporated into systems, applications, processes, and data handling activities.
+
+10. Compliance
+
+Personal data processing should comply with applicable organizational policies and data protection requirements.

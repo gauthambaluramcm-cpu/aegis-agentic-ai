@@ -1,0 +1,41 @@
+﻿AEGIS ACCESS CONTROL POLICY
+
+1. Purpose
+
+This policy defines requirements for controlling access to organizational systems, applications, datasets, and personal data. Access must be granted only to authorized users for legitimate business purposes.
+
+2. Least Privilege
+
+Users must receive only the minimum level of access required to perform their assigned responsibilities. Access permissions should be reviewed periodically and removed when no longer required.
+
+3. Authorized Access
+
+Users may access datasets and systems only when they have appropriate authorization. Access outside the user's assigned responsibilities may be treated as suspicious activity and must be investigated.
+
+4. Bulk Data Access
+
+Large-scale access, downloads, exports, or extraction of records should be performed only when there is a legitimate business requirement and appropriate authorization.
+
+5. Privileged Access
+
+Privileged accounts must be restricted to authorized personnel. Privileged activities should be monitored and reviewed.
+
+6. Suspicious Access
+
+Access involving unusually large data volumes, repeated failed attempts, unusual access times, unfamiliar locations, or unfamiliar devices should be reviewed by the security team.
+
+7. Credential Protection
+
+Users must not share passwords, authentication credentials, API keys, or other access credentials with other individuals.
+
+8. Access Review
+
+Access permissions should be reviewed periodically to identify excessive, unnecessary, or inappropriate privileges.
+
+9. Investigation
+
+When suspicious access is identified, relevant access logs, user information, timestamps, device information, location information, and accessed datasets should be preserved for investigation.
+
+10. Enforcement
+
+Violations of this policy may result in access restrictions, investigation, escalation, or other appropriate organizational action.

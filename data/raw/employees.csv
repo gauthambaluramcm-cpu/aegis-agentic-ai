@@ -1,0 +1,51 @@
+employee_id,name,department,role,manager_id,location,employment_type,joining_date
+U0001,Aryan Maharaj,Human Resources,HR Executive,,Bangalore,Contract,2023-05-07
+U0002,Udant Dewan,Finance,Finance Analyst,,Pune,Full-time,2023-08-22
+U0003,Gagan Sami,Human Resources,HR Executive,,Hyderabad,Contract,2023-12-16
+U0004,Ayushman Chander,Customer Support,Support Executive,,Mumbai,Full-time,2019-10-07
+U0005,Viraj Tiwari,IT,IT Analyst,,Hyderabad,Full-time,2018-08-21
+U0006,Rushil Saini,Human Resources,HR Manager,U0002,Chennai,Contract,2023-09-12
+U0007,Saumya Mall,Compliance,Compliance Analyst,U0004,Delhi,Contract,2018-11-25
+U0008,Nathaniel Sami,Finance,Finance Manager,U0001,Bangalore,Contract,2020-02-01
+U0009,Arunima Dugal,Risk,Risk Manager,U0005,Delhi,Full-time,2018-10-08
+U0010,Gayathri Chaudry,Operations,Operations Analyst,U0004,Bangalore,Contract,2024-09-03
+U0011,Lajita Chatterjee,IT,System Administrator,U0005,Mumbai,Full-time,2018-10-06
+U0012,Hemangini Lalla,Human Resources,HR Executive,U0003,Bangalore,Full-time,2025-07-28
+U0013,Tripti Yadav,Operations,Operations Manager,U0004,Pune,Contract,2020-08-21
+U0014,Kritika Brar,Risk,Risk Manager,U0002,Pune,Contract,2022-07-12
+U0015,Janaki Handa,Human Resources,HR Executive,U0005,Pune,Full-time,2019-05-07
+U0016,Chakradev Kari,Human Resources,HR Executive,U0002,Chennai,Contract,2024-05-22
+U0017,Fariq Kaul,Human Resources,HR Executive,U0003,Bangalore,Full-time,2020-10-05
+U0018,Lajita Mall,Compliance,Compliance Manager,U0004,Delhi,Full-time,2024-06-29
+U0019,Janya Gaba,IT,System Administrator,U0002,Pune,Contract,2024-09-01
+U0020,Isha Kadakia,Human Resources,HR Manager,U0002,Delhi,Full-time,2018-06-12
+U0021,Ekbal Garg,Human Resources,HR Manager,U0005,Chennai,Contract,2024-12-11
+U0022,Nihal Shere,Finance,Finance Analyst,U0005,Chennai,Full-time,2018-12-02
+U0023,Anamika Kanda,Compliance,Compliance Analyst,U0002,Pune,Full-time,2022-09-14
+U0024,Daksh Karnik,Operations,Operations Analyst,U0004,Chennai,Contract,2025-05-16
+U0025,Diya Rattan,Risk,Risk Analyst,U0001,Pune,Contract,2024-07-18
+U0026,Dominic Kakar,Risk,Risk Analyst,U0003,Chennai,Full-time,2024-05-04
+U0027,Simon Tata,Customer Support,Support Analyst,U0005,Mumbai,Full-time,2023-11-12
+U0028,Tara Dhar,Risk,Risk Analyst,U0002,Delhi,Full-time,2021-07-19
+U0029,Liam Koshy,Compliance,Compliance Analyst,U0005,Delhi,Contract,2020-12-04
+U0030,Priya Rastogi,Customer Support,Support Analyst,U0003,Mumbai,Full-time,2020-04-16
+U0031,Theodore Devi,IT,IT Analyst,U0001,Pune,Contract,2025-07-06
+U0032,Gavin Batta,Compliance,Compliance Analyst,U0002,Pune,Contract,2021-07-10
+U0033,Michael Dutta,Finance,Finance Manager,U0005,Hyderabad,Contract,2020-09-04
+U0034,Devansh Rajan,IT,IT Analyst,U0003,Chennai,Contract,2020-12-23
+U0035,Upadhriti Wadhwa,IT,System Administrator,U0001,Mumbai,Full-time,2022-06-10
+U0036,Advay Contractor,Risk,Risk Analyst,U0005,Hyderabad,Full-time,2019-06-21
+U0037,Harini Choudhury,Finance,Finance Analyst,U0001,Pune,Full-time,2025-07-14
+U0038,Radhika Dugar,Customer Support,Support Executive,U0003,Bangalore,Full-time,2025-03-28
+U0039,Aarush Lall,Human Resources,HR Manager,U0002,Hyderabad,Full-time,2021-05-13
+U0040,Yashica Cherian,IT,System Administrator,U0002,Chennai,Contract,2023-02-16
+U0041,Yashica Issac,Customer Support,Support Executive,U0004,Delhi,Contract,2021-07-19
+U0042,Kashvi Edwin,Operations,Operations Analyst,U0001,Bangalore,Contract,2018-10-25
+U0043,Ekiya Suresh,Risk,Risk Analyst,U0002,Mumbai,Full-time,2018-02-08
+U0044,Isaac Patil,Operations,Operations Analyst,U0004,Mumbai,Contract,2023-02-21
+U0045,Wriddhish Bhardwaj,Finance,Finance Analyst,U0004,Hyderabad,Full-time,2024-12-19
+U0046,Farhan Chada,Human Resources,HR Executive,U0001,Mumbai,Full-time,2024-04-25
+U0047,Ekapad Walia,Operations,Operations Manager,U0002,Chennai,Full-time,2019-02-14
+U0048,Kabir Soman,Operations,Operations Analyst,U0004,Delhi,Contract,2018-10-28
+U0049,Alka Wable,Operations,Operations Manager,U0002,Mumbai,Contract,2024-01-12
+U0050,Siddharth Zacharia,Customer Support,Support Executive,U0003,Bangalore,Full-time,2020-05-23

@@ -1,0 +1,45 @@
+﻿AEGIS SECURITY MONITORING POLICY
+
+1. Purpose
+
+This policy establishes requirements for monitoring system and data access activity to identify potential security threats and unauthorized behavior.
+
+2. Access Monitoring
+
+Access to organizational systems, applications, and datasets should be monitored through appropriate logging and security controls.
+
+3. Anomaly Detection
+
+Monitoring systems may identify unusual access patterns based on factors such as access volume, access time, failed attempts, location, device, and user behavior.
+
+4. Bulk Access
+
+Large or unusual volumes of data access should be reviewed to determine whether the activity is authorized and appropriate.
+
+5. Failed Access
+
+Repeated or unusual failed access attempts should be monitored because they may indicate incorrect usage, compromised credentials, or attempted unauthorized access.
+
+6. Unusual Time
+
+Access occurring outside a user's normal or expected activity patterns should be reviewed when appropriate.
+
+7. Unusual Location
+
+Access from locations that are unfamiliar or inconsistent with a user's normal activity should be investigated when appropriate.
+
+8. Unusual Device
+
+Access from unfamiliar or previously unseen devices should be reviewed when appropriate.
+
+9. Alert Review
+
+Security alerts should be reviewed using available contextual information, including user identity, accessed data, action performed, timestamp, location, device, and anomaly indicators.
+
+10. Evidence
+
+Relevant logs and supporting evidence should be preserved when an alert requires investigation.
+
+11. Continuous Improvement
+
+Monitoring rules and detection methods should be periodically reviewed and improved based on observed security events, false positives, and emerging threats.
