@@ -87,6 +87,74 @@ AEGIS addresses this by connecting **anomaly detection, behavioral analysis, RAG
 
 ---
 
+🗂️ Project Structure
+
+AEGIS/
+│
+├── app/
+│   ├── agents.py
+│   ├── anomaly_detection.py
+│   ├── behavioral_detector.py
+│   ├── combined_detector.py
+│   ├── feature_engineering.py
+│   ├── rag_ingestion.py
+│   ├── rag_retrieval.py
+│   ├── database.py
+│   ├── create_tables.py
+│   ├── dashboard.py
+│   ├── aegis_api.py
+│   └── ...
+│
+├── data/
+│   ├── raw/
+│   │   └── access_logs.csv
+│   │
+│   ├── processed/
+│   │   ├── access_features.csv
+│   │   ├── behavioral_test_results.csv
+│   │   └── combined_results.csv
+│   │
+│   ├── ground_truth/
+│   │   └── anomaly_ground_truth.csv
+│   │
+│   └── knowledge_base/
+│       ├── policies/
+│       │   ├── access_control_policy.txt
+│       │   ├── acceptable_use_policy.txt
+│       │   ├── data_privacy_policy.txt
+│       │   ├── data_retention_policy.txt
+│       │   ├── incident_response_policy.txt
+│       │   └── security_monitoring_policy.txt
+│       │
+│       └── regulations/
+│           ├── DPDP_Act_2023.pdf
+│           └── DPDP_Rules_2025.pdf
+│
+├── .env
+├── .gitignore
+├── requirements.txt
+└── README.md
+
+🤖 AI Agent Investigation
+
+The AI agent pipeline can be executed after the detection results are available.
+
+The process is:
+
+Security Alert
+      ↓
+Security Detection Agent
+      ↓
+Compliance & Policy Agent
+      ↓
+Security Response Agent
+      ↓
+Structured Investigation Report
+      ↓
+PostgreSQL
+
+The AI investigation layer uses Google Gemini.
+
 # 💡 Proposed Solution
 
 AEGIS follows an end-to-end security intelligence pipeline:
