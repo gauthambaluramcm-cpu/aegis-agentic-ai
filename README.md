@@ -87,8 +87,9 @@ AEGIS addresses this by connecting **anomaly detection, behavioral analysis, RAG
 
 ---
 
-🗂️ Project Structure
+## 🗂️ Project Structure
 
+```text
 AEGIS/
 │
 ├── app/
@@ -134,11 +135,12 @@ AEGIS/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+```
 
 🤖 AI Agent Investigation
 
 The AI agent pipeline can be executed after the detection results are available.
-
+```text
 The process is:
 
 Security Alert
@@ -152,6 +154,7 @@ Security Response Agent
 Structured Investigation Report
       ↓
 PostgreSQL
+```
 
 The AI investigation layer uses Google Gemini.
 
